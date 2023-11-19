@@ -17,4 +17,4 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
    Converting Booleans to Numbers
    Converting Numbers to Booleans
 4. Operations (Prefix and Postfix)
-5. Comparison
+5. Comparison === or ==
