@@ -7,7 +7,7 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 
 ### Day 01
 
-1. What is let , var & const (Variable)
-2. Data Type in Js
+1. What is let , var & const (Variable) , console.log() , console.table([])
+2. Data Type in Js (primitive/Non-primitive ) , type of ()
 3.
 4.
