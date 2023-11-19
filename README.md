@@ -22,3 +22,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
    Converting Numbers to Booleans
 4. Operations (Prefix and Postfix)
 5. Comparison === or ==
+6. Memory Stack Memory and Heap Memory
+7. String
