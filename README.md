@@ -2,6 +2,6 @@
 
 ## This is 7Day Of javaScript
 
-# Day 01
+### Day 01
 
 1.
