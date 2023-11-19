@@ -5,6 +5,10 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 
 ## This is 7Day Of javaScript
 
+## Interview
+
+1. All Concept of DataType
+
 ### Day 01
 
 1. What is let , var & const (Variable) , console.log() , console.table([])
