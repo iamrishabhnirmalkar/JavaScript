@@ -16,4 +16,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
    Converting Numbers to Dates
    Converting Booleans to Numbers
    Converting Numbers to Booleans
-4.
+4. Operations (Prefix and Postfix)
+5. Comparison
