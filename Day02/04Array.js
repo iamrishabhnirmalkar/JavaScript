@@ -4,7 +4,7 @@ const myHero = ["shaktiman", "naagraj"]; //Array decelration
 const myArry02 = new Array(1, 2, 3, 4); //Array decelration
 console.log(myArry02);
 
-Array Methods
+// Array Methods
 
 myArry.push(6);
 myArry.push(7); // add 7 in arry
