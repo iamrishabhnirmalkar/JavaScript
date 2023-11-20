@@ -28,4 +28,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 ### Day 02
 
 1.  Number , convert into object , prototype of number
-2.  Math
+2.  Math all concept of math function
+3.  Date //
