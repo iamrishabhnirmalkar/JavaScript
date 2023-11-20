@@ -37,3 +37,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 ### Day 02
 
 1. function
+2. scope Global and local scope
+3.
