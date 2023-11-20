@@ -38,3 +38,27 @@ console.log(obj5);
 console.log(Object.keys(tinderUser)); //[ 'id', 'name', 'isLogedIn' ]
 console.log(Object.values(tinderUser)); //[ '1234', 'Rish', false ]
 console.log(tinderUser.hasOwnProperty("isLogedIn")); //true
+
+//Destrucure
+
+const course = {
+  course: "javascript",
+  price: "500",
+  conurseInstructor: "rishabh",
+};
+
+const { conurseInstructor: instructore } = course;
+
+// console.log(conurseInstructor); //rishabh
+console.log(instructore); //rishabh
+
+//-----------JSON
+///Type 1
+{"firstName":"John", "lastName":"Doe"}
+
+//Type2
+[
+  {"firstName":"John", "lastName":"Doe"},
+  {"firstName":"Anna", "lastName":"Smith"},
+  {"firstName":"Peter", "lastName":"Jones"}
+]

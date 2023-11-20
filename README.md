@@ -32,4 +32,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 3.  Date
 4.  Array
 5.  Objects (object literals)
-6.  Object (singleton)
+6.  Object (singleton) , Destrucure, JSON
+7.
