@@ -30,3 +30,4 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 1.  Number , convert into object , prototype of number
 2.  Math all concept of math function
 3.  Date //
+4.  Array

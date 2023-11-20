@@ -13,3 +13,11 @@ let myCraetedDate02 = new Date(2023, 0, 23, 5, 4);
 
 // console.log(myCraetedDate.toDateString()); //Mon Jan 23 2023
 // console.log(myCraetedDate02.toLocaleString()); //23/1/2023, 5:04:00 am
+
+let myTimeStamp = Date.now();
+console.log(myTimeStamp);
+console.log(Math.floor(Date.now() / 1000));
+
+let newDate = new Date();
+console.log(newDate);
+console.log(newDate.getDay());
