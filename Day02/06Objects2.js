@@ -54,11 +54,13 @@ console.log(instructore); //rishabh
 
 //-----------JSON
 ///Type 1
-{"firstName":"John", "lastName":"Doe"}
+
+// {"firstName":"John", "lastName":"Doe"}
 
 //Type2
-[
-  {"firstName":"John", "lastName":"Doe"},
-  {"firstName":"Anna", "lastName":"Smith"},
-  {"firstName":"Peter", "lastName":"Jones"}
-]
+
+// [
+//   {"firstName":"John", "lastName":"Doe"},
+//   {"firstName":"Anna", "lastName":"Smith"},
+//   {"firstName":"Peter", "lastName":"Jones"}
+// ]

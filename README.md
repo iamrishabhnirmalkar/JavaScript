@@ -33,4 +33,7 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 4.  Array
 5.  Objects (object literals)
 6.  Object (singleton) , Destrucure, JSON
-7.
+
+### Day 02
+
+1. function
