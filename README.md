@@ -24,3 +24,8 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 5. Comparison === or ==
 6. Memory (Stack Memory and Heap Memory)
 7. String , convert into object , prototype of string
+
+### Day 02
+
+1.  Number , convert into object , prototype of number
+2.  Math
