@@ -44,7 +44,7 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 5. ControlFlow (IF, IF else , switch)
 6. Iterations (Loops){ for loop, Break And Continue, while loop , do while loop}
 7. Array Loop (for of, Map, for in )
-8. High order function ()
+8. High order function (For Each ,)
 
 ### Day 04
 
