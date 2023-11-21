@@ -35,10 +35,17 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 5.  Objects (object literals)
 6.  Object (singleton) , Destrucure, JSON
 
-### Day 02
+### Day 03
 
 1. function
 2. scope Global and local scope
 3. This keyword , arrow funtion, implicit & explicit return in arrow function , type to write arrow function
 4. IIFE
 5. ControlFlow (IF, IF else , switch)
+6. Iterations (Loops){ for loop, Break And Continue, while loop , do while loop}
+7.
+8.
+
+### Day 04
+
+1. DOM (document object model) ,querySelectorAll, querySelector, Nodelist
