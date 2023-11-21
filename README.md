@@ -38,4 +38,5 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 
 1. function
 2. scope Global and local scope
-3.
+3. This keyword , arrow funtion, implicit & explicit return in arrow function , type to write arrow function
+4. IIFE
