@@ -8,6 +8,7 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 ## Interview
 
 1. All Concept of DataType
+2. JavaScript Execution Context
 
 ### Day 01
 
@@ -40,3 +41,4 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 2. scope Global and local scope
 3. This keyword , arrow funtion, implicit & explicit return in arrow function , type to write arrow function
 4. IIFE
+5. ControlFlow (IF, IF else , switch)
