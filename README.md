@@ -50,3 +50,4 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 ### Day 04
 
 1. DOM (document object model) ,querySelectorAll, querySelector, Nodelist
+2.
