@@ -50,10 +50,19 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 ### Day 04
 
 1. DOM (document object model) ,querySelectorAll, querySelector, Nodelist
-2. Events in js (e) ,Events Topics
+2. DOM
+3. DOM
+4. Events in js (e) ,Events Topics
    {TYpes, timestamp, defaultPrevented,
    target, toElement, scrElemnt, currentTarget,
    clientX, clientY, screenX, screenY,
    caltkey, ctrlkey, shiftkey, keycode,}
 
 event propagation => {false}Event bubling and {true} Event capturing, e.stopPropagation();, e.preventDefault()
+
+### Day 04 (Advance JS)
+
+1. API
+2. Promise
+3.
+4.
