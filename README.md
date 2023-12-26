@@ -10,6 +10,14 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 1. All Concept of DataType
 2. JavaScript Execution Context
 
+## Therory
+
+1. Async
+
+## Project
+
+1.
+
 ### Day 01
 
 1. What is let , var & const (Variable) , console.log() , console.table([])
