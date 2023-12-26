@@ -16,7 +16,9 @@ Documentation link https://developer.mozilla.org/en-US/ (Mozilla)
 
 ## Project
 
-1.
+1. start in console
+2. start and stop hello in console
+3. change bg colour
 
 ### Day 01
 
