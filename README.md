@@ -72,7 +72,14 @@ event propagation => {false}Event bubling and {true} Event capturing, e.stopProp
 
 ### Day 04 (Advance JS)
 
+1. DOM
+
+### Day 05 (Advance JS)
+
 1. API
 2. Promise
-3.
-4.
+3. Fetch
+
+### Day 06 (OOPS)
+
+1.
